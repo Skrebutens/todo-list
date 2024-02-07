@@ -6,3 +6,9 @@ Programmas iespējams pielietojums:
 - viesu saraksts
 
 Specifikācijai jābūt šeit:
+
+Progrmmas iespējas:
+Apskatīt iepirkumus,
+Pievienot iepirkumus,
+Noņemt iepirkumus,
+Sadalīt iepirkumus pēc kārtas.
